@@ -1,0 +1,1 @@
+Esse é o Detector de Resenhas!
